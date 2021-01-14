@@ -23,12 +23,8 @@
 ## 简介
 
 可以用Python实现的有趣的小项目，内容包括Python爬虫、Python数据分析、机器学习、深度学习等，持续更新中。  
-本Repository主要用于存放项目代码，对应的项目文章可以关注公众号。  
 </br>
 
-作者：Alfred  
-微信公众号：[Alfred数据室](https://wx1.sinaimg.cn/mw690/007yVcwsgy1g03lo67ikoj30u00f0ta0.jpg)（原名为Alfred在纽西兰）  
-合作请加微信号：AlfredLabAssistant
 
 </br>
 
@@ -38,10 +34,6 @@
 应诸位读者朋友的要求，Alfred数据室将陆续推出 **《实战玩转数据科学》** 系列课程，课程分为数据获取、数据分析、大数据分析三个部分，从如何获取数据、怎么分析数据、通过什么方法分析海量数据三方面带大家玩转数据分析。
  
 数据获取部分子课程 **[《实战玩转Python爬虫》](https://study.163.com/course/introduction/1209511875.htm?share=2&shareId=480000001946441)** 现已正式上线。课程以目标为导向，从项目出发，十大案例掌握数据获取，让Python爬虫学习思路更清晰，路径更明确。详情可点击：[实战玩转Python爬虫](https://study.163.com/course/introduction/1209511875.htm?share=2&shareId=480000001946441)
- 
- 可以扫描以下二维码进行课程咨询哦：
- 
- <img src="https://github.com/Alfred1984/interesting-python/blob/master/Mia%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" width="150" />
 
 </br>
 
@@ -180,14 +172,3 @@
 - 适合人群：Python爬虫学习者、Python数据分析学习者、Pandas使用者
 - 难度：★★★☆☆
 </br>
-
-### 支持作者
-熬夜敲代码写稿件，咖啡才是第一生产力。
-
-<img src="https://github.com/Alfred1984/interesting-python/blob/master/coffee.png" width="300" />
-
-喜欢作者的分享，如何支持作者？
-
-Maybe you could buy me a cup of coffee. Salute!
-
-<img src="https://github.com/Alfred1984/interesting-python/blob/master/reward.jpg" width="550" />
